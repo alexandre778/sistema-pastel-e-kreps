@@ -26,7 +26,7 @@ export default function Caixa() {
 
   return (
     <div style={{ padding: 40 }}>
-      <h1>Caixa Di·rio</h1>
+      <h1>Caixa Di√°rio</h1>
 
       {!caixa?.aberto ? (
         <>
